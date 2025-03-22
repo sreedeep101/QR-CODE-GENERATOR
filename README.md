@@ -1,4 +1,4 @@
 ## Link to view the QR-CODE-GENERATOR git hub page
-https://github.com/sreedeep101/QR-CODE-GENERATOR/
+https://sreedeep101.github.io/QR-CODE-GENERATOR/
 
 <img src="./view.jpg">
