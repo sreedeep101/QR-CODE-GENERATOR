@@ -9,7 +9,7 @@ function generateQR(){
     output.innerHTML="successfuly created !!";
   }
   else{
-    qrCode.src = "";
+    qrCode.src = "./Error.jpg";
     qrcontaian.classList.remove("show-img");
     output.innerHTML="Sorry there is an Error occurred";
     qrText.classList.add('error');
@@ -17,4 +17,4 @@ function generateQR(){
             qrText.classList.remove('error');
         },1000)
        }
-  }
+}
